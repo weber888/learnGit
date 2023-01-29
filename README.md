@@ -1,5 +1,3 @@
-# learnGit
-Learn GIT
 Readme
 Ceny usług księgowych ustalane są indywidualne dla każdego Klienta w drodze negocjacji i uzależnione są od:
 
@@ -15,4 +13,3 @@ Ceny usług księgowych ustalane są indywidualne dla każdego Klienta w drodze 
 
 - innych (np. firma jest podatnikiem VAT, transakcje zagraniczne, itp.),
 
-Jeśli są Państwo zainteresowani usługami naszego biura i chcą Państwo poznać szczegóły oferty dla Państwa firmy proszę o kontakt telefoniczny w celu umówienia spotkania w dogodnym dla Państwa terminie.
